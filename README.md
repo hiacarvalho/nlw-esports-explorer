@@ -4,7 +4,7 @@
 
 Projeto construído durante o evento Next Level Week da Rockseat
 
-[Clique para acessar!](https://hiacarvalho.github.io/nwl-esports-explorer/)
+[Clique para acessar!](https://hiacarvalho.github.io/nlw-esports-explorer/)
 
 # Tecnologias
 
